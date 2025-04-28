@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on using Azure, AWS, then GCS to setup Wazuh with MISP as an IoC database feed. I intend on taking the following actions:
+## 🔭 I’m currently working on using Azure, AWS, then GCS to setup Wazuh with MISP as an IoC database feed. I intend on taking the following actions:
     - Next, I'm going to add logic to cycle through MISP, VirusTotal and AbuseIPDB sequentially in an effort to look for a match to what an agent has detected.
     - Next is to integrate Wazuh alerts with firewall connections so that DDOS attempts are dropped and black listed permanently after four(?) atempts. A geolocation filter will be activated to immediately exclude
     - entire countries from approaching the network firewall.
