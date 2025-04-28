@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🔭 I’m currently working on using Azure, AWS, then GCS to setup Wazuh with MISP as an IoC database feed. I intend on taking the following actions:
+I’m currently working on using Azure, AWS, then GCS to setup Wazuh with MISP as an IoC database feed. I intend on taking the following actions:
 - Next, I'm going to add logic to cycle through MISP, VirusTotal and AbuseIPDB sequentially in an effort to look for a match to what an agent has detected.
     - Next is to integrate Wazuh alerts with firewall connections so that DDOS attempts are dropped and black listed permanently after four(?) atempts. A geolocation filter will be activated to immediately exclude
     - entire countries from approaching the network firewall.
@@ -16,11 +16,18 @@
     - Long story short, I want to enable a system that will not only be extremely hard to slip by, but it will be bolstered to deal automatically so that no one has to run to the office or their remote system 
     - because the solution would have either eliminated or somehow effectively contained the threat.
     - The next step would be to carefully deploy the solution in phases. Document any anomalies, address them, then continue to the next target(s).
+    - Have I missed something in my overall plan? I'd be interested to get feedback on what that could be. I love to keep up with the latest news, attacks, and breaches.
     
 🌱 I’m currently learning Azure Funamentals. My long term goal is to become a Senior Cloud Engineer. I'm also weighing how I will integrate AI/ML into my function and the virtual infrastructure that I will be
     - managing.
     I'm also intent on taking TryHackMe's courses on SOC1 threat detection, correlation and remediation. Other courses I have interest in are for OWASP, WAF, and SQL attacks. They should make me more effective at
     - spotting threats and their blast radius. In the future, I intend on getting CompTIA Security+ and CISSP/CISA/CISM.
+
+- 👯 I’m looking to collaborate on Qualys, Nessus, Splunk, Syslog, SNMP v2/v3, and Greylog.
+- 🤔 I’m looking for help with threat detection and my studies as I've laid out above.
+- ⚡ Fun fact: I used to work at the Wendy's location that was transformed into McDowell's in the film 'Coming To America!'
+- 📫 How to reach me: Soon, I'll setup a Discord channel/group. Stay tuned!
+- 
 <!--
 **RedBar0n95/RedBar0n95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,10 +54,10 @@ Here are some ideas to get you started:
     - managing.
     I'm also intent on taking TryHackMe's courses on SOC1 threat detection, correlation and remediation. Other courses I have interest in are for OWASP, WAF, and SQL attacks. They should make me more effective at
     - spotting threats and their blast radius. In the future, I intend on getting CompTIA Security+ and CISSP/CISA/CISM.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on Qualys, Nessus, Splunk and Greylog. 
+- 🤔 I’m looking for help with threat detection and my studies as I've laid out above.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: Soon, I'll setup a Discord channel/group. Stay tuned!
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I used to work at the Wendy's location that was transformed into McDowell's in the film 'Coming To America!'
 -->
