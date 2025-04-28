@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## 🔭 I’m currently working on using Azure, AWS, then GCS to setup Wazuh with MISP as an IoC database feed. I intend on taking the following actions:
 <!--
 **RedBar0n95/RedBar0n95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
